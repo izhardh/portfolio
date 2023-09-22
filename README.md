@@ -1,7 +1,8 @@
 # Android Developer
 
 ### Education
-Telecommuncation Engineering, ST.r.T
+- Bachelor Degree | Telecommuncation Engineering | Electronic Engineering Polytechnic Institure of Surabaya
+- Ascociate Degree | Telecommunication And Navigation Engineering | Poytechnic Aviation of Surabaya
 
 ### Work Experience
 Research and Development @PT.Delameta Bilano
