@@ -23,5 +23,5 @@
 
 "AyoWorkout" is a workout application that offers a variety of exercises, including Jumping Jacks, Wall Sit, Push Up, Abdominal Crunch, Step-Up onto Chair, Squat, Tricep Dip On Chair, Plank, High Knees Running In Place, Lunges, Push up and Rotation, Side Plank Each exercise lasts approximately 30 seconds. This application is designed for busy individuals who may not have time for regular exercise. By using this app, which only takes a few minutes, users can improve their fitness levels.
 
-![Menu Awal](/img/MenuAwak.jpeg)
+![Menu Awal](/img/MenuAwal.jpeg)
 
